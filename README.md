@@ -2,7 +2,7 @@
 <h3 align="center">public profile to show updates for my work</h3>
 
 - working on **ai minecraft build bot**
-
+25+ code languages known
 
 <p align="left">
 </p>
