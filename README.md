@@ -1,4 +1,4 @@
-<h1 align="center">Hi im my public account ottmos</h1>
+
 <h3 align="center">public profile to show updates for my work</h3>
 
 - working on **ai minecraft build bot**
