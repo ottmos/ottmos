@@ -2,7 +2,7 @@
 <h3 align="center">public profile to show updates for my work</h3>
 
 - i code a little
-25+ code languages known
+25+ code languages known (all not listed)
 
 <p align="left">
 </p>
